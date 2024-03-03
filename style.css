@@ -368,8 +368,7 @@ header{
     border-width: .5px;
     padding-block: var(--padding-0-);
     background-color: var(--colour-primary-);
-    width: 30vw;
-    max-width: 100px;
+    width: 100px;
     text-align: center;
 }
 
@@ -389,8 +388,7 @@ header{
     border-width: .5px;
     border-color: var(--colour-primary-);
     padding-block: var(--padding-0-);
-    width: 30vw;
-    max-width: 100px;
+    width: 100px;
     background-color: var(--colour-light-);
     text-align: center;
 }
@@ -603,6 +601,12 @@ header{
 
 .home-hero__button-container{
     overflow: hidden;
+}
+
+.home-hero__link{
+    border-style: solid;
+    border-color: var(--colour-primary-);
+    border-width: .5px;
 }
 
 .home-hero__mobile-nav-list{
