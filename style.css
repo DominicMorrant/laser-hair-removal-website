@@ -348,7 +348,7 @@ header{
     padding-inline: 20px;
 }
 
-.input-submit{
+.input-submit, .input-submit:active , .input-submit:visited, .input-submit:hover{
     border: none;
     padding-block: var(--padding-0-);
     padding-block: 15px;
@@ -789,6 +789,10 @@ header{
 footer{
     background-color: var(--colour-primary-);
     padding-block: var(--padding-3-);
+}
+
+.footer__form-button{
+    background-color: var(--colour-light-);
 }
 
 .footer__logo-container{
