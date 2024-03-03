@@ -352,6 +352,7 @@ header{
     border: none;
     padding-block: var(--padding-0-);
     padding-block: 15px;
+    -webkit-appearance: none;
 }
 
 .input-submit-light{
