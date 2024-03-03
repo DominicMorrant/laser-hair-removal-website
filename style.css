@@ -393,6 +393,7 @@ header{
     max-width: 100px;
     background-color: var(--colour-light-);
     text-align: center;
+    overflow: hidden;
 }
 
 /* Price sections */
