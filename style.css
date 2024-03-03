@@ -50,8 +50,8 @@ html{
     --font-weight-reg-: 400;
     --font-weight-bold-: 700;
 
-    --font-size-very-small-: 8px;
-    --font-size-small-: 10px;
+    --font-size-very-small-: 1-px;
+    --font-size-small-: 12px;
     --font-size-medium-: 14px;
     --font-size-large-: 20px;
 
