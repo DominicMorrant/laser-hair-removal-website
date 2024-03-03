@@ -355,7 +355,7 @@ header{
     padding-block: 10px;
 }
 
-.button-primary{
+.button-primary, .button-primary:active, .button-primary:hover, .button-primary:visited{
     border-style: solid;
     border-color: var(--colour-primary-);
     border-width: .5px;
@@ -366,7 +366,7 @@ header{
     text-align: center;
 }
 
-.button-primary-large{
+.button-primary-large, .button-primary-large:active, .button-primary-large:hover, .button-primary-large:visited{
     border-style: solid;
     border-color: var(--colour-primary-);
     border-width: .5px;
@@ -377,7 +377,7 @@ header{
     text-align: center;
 }
 
-.button-secondary{
+.button-secondary, .button-secondary:active, .button-secondary:hover, .button-secondary:visited{
     border-style: solid;
     border-color: var(--colour-primary-);
     border-width: .5px;
