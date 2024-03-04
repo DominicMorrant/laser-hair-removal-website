@@ -817,6 +817,10 @@ footer{
     max-width: 70px;
 }
 
+.desktop-footer__terms, .footer__terms{
+    text-decoration: underline;
+}
+
 
 /* ============================= SUCCESS PAGE ======================*/
 
