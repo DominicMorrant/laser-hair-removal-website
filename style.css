@@ -400,13 +400,16 @@ header{
     height: .5px;
     background-color: var(--colour-primary-);
     margin: 0 auto;
+    display: -webkit-flex;
+    flex-direction: column;
 }
 
 .treatment-area__1-session-container, .treatment-area__6-session-container{
     border-style: solid;
     border-color: var(--colour-primary-);
     border-width: .5px;
-    overflow: visible;
+    display: -webkit-flex;
+    flex-direction: column;
 }
 
 .treatment-area__6-session-upfront-container{
