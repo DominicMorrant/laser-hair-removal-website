@@ -410,6 +410,7 @@ header{
     border-width: .5px;
     display: -webkit-flex;
     flex-direction: column;
+    -webkit-flex-direction: column;
 }
 
 .treatment-area__6-session-upfront-container{
