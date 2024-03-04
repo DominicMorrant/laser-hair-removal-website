@@ -395,6 +395,10 @@ header{
 
 /* Price sections */
 
+.treatment-area__treatment-price-container{
+    display: -webkit-grid;
+}
+
 .treatment-area__1-session-divider, .treatment-area__6-session-divider, .treatment-area__6-session-upfront-divider{
     width: 80%;
     height: .5px;
