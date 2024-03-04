@@ -775,6 +775,15 @@ header{
     width: 80%;
 }
 
+.booking-form__image-container{
+    display: none;
+}
+
+.booking-form__image{
+    max-width: 100px;
+    padding-top: 35px;
+}
+
 /* ============================== END OF BOOKING PAGE ============*/
 
 /* ============================== TREATMENT PAGE ==================*/
@@ -1382,6 +1391,10 @@ footer{
 
     .booking-form__form-container{
         width: 100%;
+    }
+
+    .booking-form__image-container{
+        display: flex;
     }
 
 
